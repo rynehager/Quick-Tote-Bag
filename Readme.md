@@ -7,7 +7,7 @@ An open design for a quick and easy tote bag , including laser-cutter or CNC rea
 
 A rasterized set of plans, for easy refecence, is included below and [the vector plans are linked here](https://github.com/rynehager/Quick-Tote-Bag/blob/master/Assets/quickanddirty.svg) and included above in the assets folder
 
-![](https://github.com/rynehager/Quick-Tote-Bag/blob/master/Assets/Images/non-vector-plans.jpgraw=true "Delicious")
+![](https://github.com/rynehager/Quick-Tote-Bag/blob/master/Assets/non-vector-plans.png?raw=true "Delicious")
 
 Make sure you have read the license details for this project before you use these designs.
 
