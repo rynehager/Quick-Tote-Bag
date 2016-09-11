@@ -1,9 +1,9 @@
 # Quick Tote Bag
 An open design for a quick and easy tote bag , including laser-cutter or CNC ready Gcode files, which looks a little something like this:
 
-![](https://github.com/rynehager/Quick-Tote-Bag/blob/master/Assets/Images/Bag1?raw=true "Delicious")
+![](https://github.com/rynehager/Quick-Tote-Bag/blob/master/Assets/Images/Bag1.jpg?raw=true "Delicious")
 
-![](https://github.com/rynehager/Quick-Tote-Bag/blob/master/Assets/Images/Bag2?raw=true "Delicious")
+![](https://github.com/rynehager/Quick-Tote-Bag/blob/master/Assets/Images/Bag2.jpg?raw=true "Delicious")
 
 Make sure you have read the license details for this project before you use these designs.
 
